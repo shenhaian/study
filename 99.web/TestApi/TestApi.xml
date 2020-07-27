@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestApi</name>
+    </assembly>
+    <members>
+        <member name="T:TestApi.Controllers.TestController">
+            <summary>
+            测试接口
+            </summary>
+        </member>
+        <member name="M:TestApi.Controllers.TestController.Get">
+            <summary>
+            Get方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Controllers.TestController.Value">
+            <summary>
+            Value 方法
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

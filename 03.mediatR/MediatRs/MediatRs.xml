@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MediatRs</name>
+    </assembly>
+    <members>
+        <member name="M:MediatRs.Controllers.MediatRController.SingleMessageTest">
+            <summary>
+            单播消息测试
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:MediatRs.Controllers.MediatRController.NotifyMessageTest">
+            <summary>
+            通知消息测试
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="T:MediatRs.MediatRServiceCollection">
+            <summary>
+            添加服务
+            </summary>
+        </member>
+        <member name="T:MediatRs.Notify.NotifyMessage">
+            <summary>
+            通知消息对象
+            </summary>
+        </member>
+        <member name="P:MediatRs.Notify.NotifyMessage.Type">
+            <summary>
+            消息类型
+            </summary>
+        </member>
+        <member name="P:MediatRs.Notify.NotifyMessage.Content">
+            <summary>
+            消息内容
+            </summary>
+        </member>
+        <member name="T:MediatRs.Notify.NotifyMessageHandler">
+            <summary>
+            消息处理模块
+            </summary>
+        </member>
+        <member name="M:MediatRs.Notify.NotifyMessageHandler.Handle(MediatRs.Notify.NotifyMessage,System.Threading.CancellationToken)">
+            <summary>
+            通知消息处理方法
+            </summary>
+            <param name="notification"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MediatRs.SingleCast.SingleMessage">
+            <summary>
+            单播消息体
+            </summary>
+        </member>
+        <member name="T:MediatRs.SingleCast.SingleMessageHandler">
+            <summary>
+            单播消息处理
+            </summary>
+        </member>
+        <member name="M:MediatRs.SingleCast.SingleMessageHandler.Handle(MediatRs.SingleCast.SingleMessage,System.Threading.CancellationToken)">
+            <summary>
+            消息处理者
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

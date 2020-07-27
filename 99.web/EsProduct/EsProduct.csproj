@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>E:\web\EsProduct\99.web\EsProduct\EsProduct.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01.identityServer4\Es.IdentityServer4\Es.IdentityServer4.csproj" />
+    <ProjectReference Include="..\..\02.nest\NESTDll\NESTDll.csproj" />
+    <ProjectReference Include="..\..\03.mediatR\MediatRs\MediatRs.csproj" />
+    <ProjectReference Include="..\..\04.designMode\DesignModes\DesignModes.csproj" />
+  </ItemGroup> 
+</Project>
+

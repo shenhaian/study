@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="02Structure\01Adapter\" />
+    <Folder Include="02Structure\02Bridge\" />
+    <Folder Include="02Structure\03Composite\" />
+    <Folder Include="02Structure\04Decorator\" />
+    <Folder Include="02Structure\05Facade\" />
+    <Folder Include="02Structure\06Flyweight\" />
+    <Folder Include="02Structure\07Proxy\" />
+    <Folder Include="03Behavior\01Observer\" />
+    <Folder Include="03Behavior\02TemplateMethod\" />
+    <Folder Include="03Behavior\03Command\" />
+    <Folder Include="03Behavior\04State\" />
+    <Folder Include="03Behavior\05ChainOfResponsibility\" />
+    <Folder Include="03Behavior\06Interpreter\" />
+    <Folder Include="03Behavior\07Mediator\" />
+    <Folder Include="03Behavior\08Visitor\" />
+    <Folder Include="03Behavior\09Memento\" />
+    <Folder Include="03Behavior\10Iterator\" />
+    <Folder Include="03Behavior\11Strategy\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\00.publishs\BasePro\BasePro.csproj" />
+  </ItemGroup>
+
+</Project>

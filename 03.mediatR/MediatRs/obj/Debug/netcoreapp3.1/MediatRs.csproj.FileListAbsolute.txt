@@ -1,0 +1,13 @@
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\MediatRs.deps.json
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\MediatRs.dll
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\MediatRs.pdb
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\BasePro.dll
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\BasePro.pdb
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.csprojAssemblyReference.cache
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.AssemblyInfoInputs.cache
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.AssemblyInfo.cs
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.csproj.CoreCompileInputs.cache
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.csproj.CopyComplete
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.dll
+E:\web\EsProduct\03.mediatR\MediatRs\obj\Debug\netcoreapp3.1\MediatRs.pdb
+E:\web\EsProduct\03.mediatR\MediatRs\bin\Debug\netcoreapp3.1\MediatRs.xml

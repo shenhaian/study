@@ -1,0 +1,9 @@
+E:\web\EsProduct\00.publishs\BasePro\bin\Debug\netcoreapp3.1\BasePro.deps.json
+E:\web\EsProduct\00.publishs\BasePro\bin\Debug\netcoreapp3.1\BasePro.dll
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.AssemblyInfoInputs.cache
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.AssemblyInfo.cs
+E:\web\EsProduct\00.publishs\BasePro\bin\Debug\netcoreapp3.1\BasePro.pdb
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.dll
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.pdb
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.csprojAssemblyReference.cache
+E:\web\EsProduct\00.publishs\BasePro\obj\Debug\netcoreapp3.1\BasePro.csproj.CoreCompileInputs.cache
